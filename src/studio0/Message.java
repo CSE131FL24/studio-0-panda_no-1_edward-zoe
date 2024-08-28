@@ -3,6 +3,6 @@ package studio0;
 public class Message {
 
 	public static void main(String args[]) {
-		System.out.println("Say hello to group members 1");
+		System.out.println("Say hello to group me2mbers 1");
 	}
 }
